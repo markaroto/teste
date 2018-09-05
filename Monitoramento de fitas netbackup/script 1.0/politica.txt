@@ -1,0 +1,5 @@
+OracleUsuDiario
+OracleUsuAnual
+OracleUsuMensal
+OracleUsuSemanal
+OracleUsu6Meses
